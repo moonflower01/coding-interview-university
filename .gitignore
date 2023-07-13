@@ -21,3 +21,5 @@ Thumbs.db
 
 # Sublime Files
 .sublime
+# Targets Windows & Unix temporary files
+~$*
